@@ -4,7 +4,8 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/Event-Driven-Architecture_workshop-Himanshu/day1/pom.xml" />
+        <option value="$PROJECT_DIR$/day1/pom.xml" />
+        <option value="$PROJECT_DIR$/day2/pom.xml" />
       </list>
     </option>
   </component>

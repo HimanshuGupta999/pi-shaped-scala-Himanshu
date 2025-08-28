@@ -122,5 +122,5 @@ After sending the `curl` command, you will see immediate output.
 ## Screenshots
 
 Captured screenshots to show order placed successfully.
-1. Screenshot from 2025-08-28 17-51-11.png
-2. Screenshot from 2025-08-28 17-51-36.png
+1. ![Screenshot from 2025-08-28 17-51-11.png](Screenshots/Screenshot%20from%202025-08-28%2017-51-11.png)
+2. ![Screenshot from 2025-08-28 17-51-36.png](Screenshots/Screenshot%20from%202025-08-28%2017-51-36.png)
